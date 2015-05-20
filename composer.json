@@ -1,0 +1,14 @@
+{
+  "name": "eeebb/cmb-field-gallery",
+  "type": "wordpress-plugin",
+  "description": "Gallery field type for Custom Metaboxes and Fields for WordPress",
+  "homepage": "https://github.com/mustardBees/cmb-field-gallery",
+  "authors": [{"name": "mustardBees"}],
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "composer/installers": "~1.0",
+    "wpackagist-plugin/cmb2": "~2.0"
+  }
+}
